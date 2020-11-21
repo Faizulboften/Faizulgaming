@@ -10,13 +10,11 @@ def clear():
         time.sleep(1./300)
 def baner():
 time.sleep(0.1)
-    kata("""\n\t\033[90m~  ~  ~\033[92m┌∩┐\033[94m(\033[91m◣_◢\>
-\t\033[00m FACEBOOK MBF COOKIES V2
-\t\033[90m -----------------------\033[94m\n
-===========================================\033[00m
-Creator \033[1;91m: \033[1;96mFaizulBoften\033[00m                  Youtube \033[1;91m: \033[1;96mHtcCtrgaming\033[00m
-Github  \033[1;91m: \033[4;92mgithub.com/Faizulcyber\033[00m
-\033[94m===========================================\033[00m""")
+    kata("""\033[37;1m----------------------------------
+   \033[33;1mAUTHOR : Faizul
+  \033[33;1mMy Channel : Dbs Channel 
+   \033[33;1mFacebook : Faizul
+  \033[37;1m- - - - - - - - - - - - - - - - - - - - -""") 
 def balik():
     f=input("\033[00m\t[\033[96mEnter To Back\033[00m]")
     if f == "":
